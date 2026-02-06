@@ -3,7 +3,6 @@
 A simple yet powerful HTTP server built with **pure Node.js**, without using Express or any framework.  
 This project demonstrates how web servers actually work under the hood.
 
----
 
 ## 🚀 Features
 
@@ -17,7 +16,6 @@ This project demonstrates how web servers actually work under the hood.
 - 📦 Correct handling of text vs binary files
 - 🧠 Educational & beginner-friendly architecture
 
----
 
 ## 📂 Project Structure
 
@@ -35,7 +33,6 @@ project/
 ├── package.json
 └── package-lock.json
 
----
 
 ## ▶️ Getting Started
 
