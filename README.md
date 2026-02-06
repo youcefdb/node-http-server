@@ -34,3 +34,28 @@ project/
 ├── README.md
 ├── package.json
 └── package-lock.json
+
+---
+
+▶️ Getting Started
+
+1️⃣ Clone the repository
+  git clone https://github.com/your-username/your-repo-name.git
+  cd your-repo-name
+
+2️⃣ Run the server
+  npm start
+
+3️⃣ Open in browser
+  http://localhost:3500
+
+
+📚 What You Learn From This Project
+
+How HTTP really works
+Difference between URL and filesystem paths
+How browsers request assets (images, favicon…)
+Why Content-Type matters
+How Express/NestJS work internally
+How to safely serve static files
+Why binary files must not be read as UTF-8
