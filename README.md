@@ -37,20 +37,22 @@ project/
 
 ---
 
-▶️ Getting Started
+## ▶️ Getting Started
 
 1️⃣ Clone the repository
   git clone https://github.com/your-username/your-repo-name.git
   cd your-repo-name
 
-2️⃣ Run the server
+2️⃣ Install dependencies
+
+3️⃣ Run the server
   npm start
 
-3️⃣ Open in browser
+4️⃣ Open in browser
   http://localhost:3500
 
 
-📚 What You Learn From This Project
+## 📚 What You Learn From This Project
 
 How HTTP really works
 Difference between URL and filesystem paths
