@@ -1,0 +1,7 @@
+# Node modules
+node_modules/
+course/
+files/
+README/
+
+A simple yet powerful HTTP server built with **pure Node.js**, without using Express or any framework.

@@ -8,5 +8,5 @@ const ev = new custEvent();
 ev.on("log", async () => { //creat the listener
     await logEvent();
 });
-////test
+//test
 ev.emit("log"); //hearing.. when you enter "log", the ev.on will execute 
