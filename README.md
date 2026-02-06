@@ -32,8 +32,9 @@ project/
 ├── README.md
 ├── package.json
 └── package-lock.json
+```
 
-
+```text
 ## ▶️ Getting Started
 
 1️⃣ Clone the repository
@@ -47,8 +48,9 @@ project/
 
 4️⃣ Open in browser
   http://localhost:3500
+```
 
-
+```text
 ## 📚 What You Learn From This Project
 
 How HTTP really works
@@ -58,3 +60,4 @@ Why Content-Type matters
 How Express/NestJS work internally
 How to safely serve static files
 Why binary files must not be read as UTF-8
+```
